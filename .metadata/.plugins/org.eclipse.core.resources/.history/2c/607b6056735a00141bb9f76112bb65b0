@@ -16,7 +16,6 @@
 		<h2>
 		<input type="Text" value="Hello 我有淺綠色的底喔！"	STYLE="background-color:#ccffcc">
 		</h2>
-		<h3>this is a test</h3>
 		<p id="para1">
 			Hello world!
 		</p>
