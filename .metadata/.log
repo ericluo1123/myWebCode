@@ -263,3 +263,39 @@ org.jruby.exceptions.RaiseException: (Errno::EINVAL) =::
 !MESSAGE (Build 3.6.0.201407100658) [ERROR] com.aptana.formatter.epl/debug Error while formatting the code in your editor.
  Please submit a bug report through Studio's support and include the relevant code which triggered this error.
  You may also turn on the com.aptana.formatter.epl/debug at the Studio's Troubleshooting preference page to log more details about this error.
+!SESSION 2014-11-18 14:09:17.378 -----------------------------------------------
+eclipse.buildId=3.6.0.201407100658
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_TW
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.aptana.formatter.epl 4 0 2014-11-18 16:06:38.222
+!MESSAGE (Build 3.6.0.201407100658) [ERROR] com.aptana.formatter.epl/debug Error while formatting the code in your editor.
+ Please submit a bug report through Studio's support and include the relevant code which triggered this error.
+ You may also turn on the com.aptana.formatter.epl/debug at the Studio's Troubleshooting preference page to log more details about this error.
+
+!ENTRY com.aptana.formatter.epl 4 0 2014-11-18 16:06:39.572
+!MESSAGE (Build 3.6.0.201407100658) [ERROR] com.aptana.formatter.epl/debug Error while formatting the code in your editor.
+ Please submit a bug report through Studio's support and include the relevant code which triggered this error.
+ You may also turn on the com.aptana.formatter.epl/debug at the Studio's Troubleshooting preference page to log more details about this error.
+
+!ENTRY com.aptana.formatter.epl 4 0 2014-11-18 16:06:42.612
+!MESSAGE (Build 3.6.0.201407100658) [ERROR] com.aptana.formatter.epl/debug Error while formatting the code in your editor.
+ Please submit a bug report through Studio's support and include the relevant code which triggered this error.
+ You may also turn on the com.aptana.formatter.epl/debug at the Studio's Troubleshooting preference page to log more details about this error.
+
+!ENTRY com.aptana.formatter.epl 4 0 2014-11-18 16:06:52.042
+!MESSAGE (Build 3.6.0.201407100658) [ERROR] com.aptana.formatter.epl/debug Error while formatting the code in your editor.
+ Please submit a bug report through Studio's support and include the relevant code which triggered this error.
+ You may also turn on the com.aptana.formatter.epl/debug at the Studio's Troubleshooting preference page to log more details about this error.
+
+!ENTRY com.aptana.formatter.epl 4 0 2014-11-18 16:06:56.232
+!MESSAGE (Build 3.6.0.201407100658) [ERROR] com.aptana.formatter.epl/debug Error while formatting the code in your editor.
+ Please submit a bug report through Studio's support and include the relevant code which triggered this error.
+ You may also turn on the com.aptana.formatter.epl/debug at the Studio's Troubleshooting preference page to log more details about this error.
+
+!ENTRY com.aptana.formatter.epl 4 0 2014-11-18 16:07:01.872
+!MESSAGE (Build 3.6.0.201407100658) [ERROR] com.aptana.formatter.epl/debug Error while formatting the code in your editor.
+ Please submit a bug report through Studio's support and include the relevant code which triggered this error.
+ You may also turn on the com.aptana.formatter.epl/debug at the Studio's Troubleshooting preference page to log more details about this error.
